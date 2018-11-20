@@ -1,0 +1,23 @@
+.background{
+	background: url('http://lactasoy.org/uploads/5211a169f2ad7.jpg')no-repeat center center fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.bar-section2{
+    padding: 3.5rem 0;
+}
+footer.mastfoot.mt-auto {
+
+}
+.btn-group-lg>.btn, .btn-lg {
+    padding: .5rem 1rem;
+    font-size: 1.25rem;
+    line-height: 1.5;
+    border-radius: .3rem;
+}
+
+.s {
+    height: 180px;
+    width: 100%;
+    display: block;
+}
